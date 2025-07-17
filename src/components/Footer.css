@@ -1,0 +1,46 @@
+.Y{
+    background-image: url("C:/Users/mdhan/white/src/images/cover2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height: 100vh;
+}
+.Z{
+    padding-top: 150px;
+}
+.i1,.i5,.i3{
+    color:black;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.i4{
+     color:black;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.subscribe-container {
+  display: flex;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.6); 
+  border-radius: 25px;
+  padding: 5px;
+  max-width: 400px;
+  overflow: hidden;
+}
+
+.subscribe-input {
+  flex: 1;
+  padding: 12px 20px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: white;
+  background: transparent;
+}
+
+.subscribe-input::placeholder {
+  color: white;
+  opacity: 0.8;
+}

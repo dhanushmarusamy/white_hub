@@ -1,0 +1,26 @@
+.navbar-nav{
+    justify-content: center;
+    gap: 6px;
+}
+  .search-bar{
+            position: relative;
+            display: flex;
+            padding-top: 10px;
+            margin-left: 10px;
+        }
+          .search-img-container{
+            position: absolute;
+            left: 2%;
+            /* bottom: 3%; */
+        }
+
+        .search-img{
+            color: rgb(206, 203, 203);
+        }
+          .input-field{
+            padding-left: 30px;
+        }
+        .bi{
+padding-top: 5PX;
+        }
+      
